@@ -11,8 +11,6 @@
     "crud",
     "mongodb"
   ],
-  "author": "akshay kashyap",
-  "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
     "body-parser": "^1.19.0",
